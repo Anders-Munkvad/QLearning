@@ -1,2 +1,6 @@
 Test med diverse.
 Bedst på 1:1 (???). Test om dette er forventeligt, eller bare ren held.
+
+Check assignement 4 for bedre forståelse
+
+Kernel: Python 3.12.0
